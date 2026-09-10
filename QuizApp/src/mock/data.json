@@ -1,0 +1,213 @@
+  [
+  {
+    "id": 1,
+    "question": "Who is the creator of the manga One Piece?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Eiichiro Oda",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Masashi Kishimoto",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Tite Kubo",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is the name of the main character in Naruto?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Sasuke Uchiha",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Naruto Uzumaki",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Kakashi Hatake",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Who wrote and illustrated the original Dragon Ball manga?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Akira Toriyama",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Yoshihiro Togashi",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Hirohiko Araki",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What is the name of the Shinigami who gives Light Yagami the Death Note?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Rem",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Ryuk",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Sidoh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Who is the main protagonist of Attack on Titan?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Levi Ackerman",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Armin Arlert",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Eren Yeager",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "What is the name of Tanjiro's sister in Demon Slayer?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Nezuko Kamado",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Shinobu Kocho",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Kanao Tsuyuri",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "What is the name of the school attended by the heroes in My Hero Academia?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Jujutsu High",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "U.A. High School",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "True Cross Academy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "What is the name of the protagonist in Fullmetal Alchemist?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Alphonse Elric",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Roy Mustang",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Edward Elric",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Who is the main protagonist of Jujutsu Kaisen?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Megumi Fushiguro",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Yuji Itadori",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Satoru Gojo",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "What is the civilian name of Sailor Moon?",
+    "answers": [
+      {
+        "id": "a",
+        "text": "Usagi Tsukino",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Ami Mizuno",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Rei Hino",
+        "isCorrect": false
+      }
+    ]
+  }
+]
+
